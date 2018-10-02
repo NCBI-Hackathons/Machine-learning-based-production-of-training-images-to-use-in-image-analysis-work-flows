@@ -84,7 +84,7 @@ replace <IMAGE ID> with the id you saw on the list
 #### Use cases:
 
 <img src="mnist_2500.png" width="400" height="400" />
-Data source: CXR8
+Data source: [CXR8](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 
 #### Long Term Goals:
 
